@@ -1,0 +1,28 @@
+scene
+{
+-background
+
+-player
+ -figure
+  -animation in the end of beginning
+ -vector <card>
+  -figure
+   -animations from actions
+    -doing attacks
+    -recieving attacks
+    -death
+  -stats
+  -actions(invisible)
+
+-enemy
+ -AI
+ -figure
+  -vector <card>
+
+-menu
+ -texture
+ -user actions
+  -fight
+   -actions from bokemon
+  -escape
+}
