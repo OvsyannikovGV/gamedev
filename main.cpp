@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector>
 #include "background.hpp"
+#include "bokemon.hpp"
 #include "hero.hpp"
 #include "npc.hpp"
 
